@@ -17,7 +17,7 @@
       font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-size: 14px;
       line-height: 20px;
-      background-color: #fff;
+      background-image: linear-gradient(120deg,#12c2e9,#c471ed,#2C5364);
     }
 
     header,
@@ -57,7 +57,7 @@
     }
 
     a {
-      color: #444;
+      color: #435;
       text-decoration: none;
     }
 
@@ -75,7 +75,7 @@
 
 <body>
   <header>
-    <h1 class="logo">Welcome to Beego</h1>
+    <h1 class="logo">Welcome to ZCY Beego</h1>
     <div class="description">
       Beego is a simple & powerful Go web framework which is inspired by tornado and sinatra.
     </div>
